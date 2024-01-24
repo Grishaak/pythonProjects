@@ -15,4 +15,5 @@ class Solution:
             count += 1
         return string
 
-print(Solution.longestCommonPrefix(["flower","flow","flight"]))
+
+print(Solution.longestCommonPrefix(["flower", "flowe", "flighwewet"]))
